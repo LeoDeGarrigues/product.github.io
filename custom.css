@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, i, .item { color: #4A0951; }
 /*Récupérer ces propriétés sur Ui Gradients: https://uigradients.com*/
 .bg-color {
   background: #74ebd5;
-  background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);
+  background: -webkit-linear-gradient(to right, #8e9eab, #eef2f3);
   background: linear-gradient(to right, #ACB6E5, #74ebd5);
 }
 
